@@ -1,5 +1,4 @@
 # scookelimited.com
 
-First webpage made for my Engineering business 
+A webpage made for an Engineering business, using a Bootstrap design this uses simple HTML CSS and JS and was one of the first websites i developed the original website can be viewed [here](https://cranky-thompson-c7792f.netlify.com/)
 
-Can be viewed at www.scookelimited.com
